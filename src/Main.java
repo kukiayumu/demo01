@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!  Hi,Git!!!");
         //注释
         String str="干嘛呢？";
+        System.out.println(str);
     }
 }
